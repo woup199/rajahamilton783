@@ -12,17 +12,17 @@ I have a strong passion for building web and mobile platforms using cutting-edge
 
 ### Technologies
 
-## Languages
+#### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,regex,wasm)](https://skillicons.dev)
-## Frontend Frameworks
+#### Frontend Frameworks
 [![My Skills](https://skillicons.dev/icons?i=jquery,react,redux,nextjs,vue,vercel,vite,nuxtjs,css,tailwind,styledcomponents,materialui,sass)](https://skillicons.dev)
-## Backend Frameworks
+#### Backend Frameworks
 [![My Skills](https://skillicons.dev/icons?i=apollo,graphql,nodejs,django,nestjs,laravel,fastapi,express,redis)](https://skillicons.dev)
-## CI/CD
+#### CI/CD
 [![My Skills](https://skillicons.dev/icons?i=githubactions,jest,jenkins,sentry,)](https://skillicons.dev)
-## Cloud services
+#### Cloud services
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,heroku,vercel)](https://skillicons.dev)
-## Database
+#### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,prisma,sequelize,sqlite,postgres,postman,dynamodb)](https://skillicons.dev)
-## Tools
+#### Tools
 [![My Skills](https://skillicons.dev/icons?i=ps,figma,vscode,autocad)](https://skillicons.dev)
