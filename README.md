@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! Welcome 👋
 
-<!--
-**rajahamilton783/rajahamilton783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Raja Hamilton and working as a dedicated software engineer who has built software product for 9 years.
+I have a strong passion for building web and mobile platforms using cutting-edge technologies for diverse industries.
 
-Here are some ideas to get you started:
+### Quick Summary 🗒
+- Prioritize product quality, ensuring the excellence of product delivery
+- Seek out and adopt new technologies to propose effective solutions
+- Engage in clear communication with product, scrum, and engineering teams
+- Expand hard skills by learning the latest technologies
+- Enjoy reading cutting-edge technologies and their introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)## Frameworks & Libraries
+## Tools
