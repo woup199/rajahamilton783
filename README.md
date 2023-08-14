@@ -13,5 +13,10 @@ I have a strong passion for building web and mobile platforms using cutting-edge
 ### Technologies
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)## Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,regex,wasm)](https://skillicons.dev)
+## Frontend Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,vercel,vite,nuxtjs)](https://skillicons.dev)
+## Backend Frameworks
+[![My Skills](https://skillicons.dev/icons?i=graphql,nodejs,django,vite,nuxtjs)](https://skillicons.dev)
+
 ## Tools
