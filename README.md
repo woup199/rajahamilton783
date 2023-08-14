@@ -1,6 +1,6 @@
 ### Hi! Welcome 👋
 
-My name is Raja Hamilton and working as a dedicated software engineer who has built software product for 9 years.
+My name is Raja Hamilton and working as a dedicated software engineer for 9 years by building SaaS products.
 I have a strong passion for building web and mobile platforms using cutting-edge technologies for diverse industries.
 
 ### Quick Summary 🗒
